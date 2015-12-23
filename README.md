@@ -1,9 +1,5 @@
-# [ng-breadcrumbs](http://ianwalter.github.io/ng-breadcrumbs/)
+# [ng-breadcrumbs]
 *A better AngularJS service to help with breadcrumb-style navigation between views.*
-
-[![Code Climate](https://codeclimate.com/github/ianwalter/ng-breadcrumbs.png)](https://codeclimate.com/github/ianwalter/ng-breadcrumbs)
-
-This project was built using [ng-boilerplate](https://github.com/ianwalter/ng-boilerplate)!
 
 #### Step 1: Install ng-breadcrumbs
 
@@ -77,5 +73,3 @@ breadcrumbs.options = { 'Stock Detail': $routeParams.stock + ' Details' };
 ```
 
 I hope you find this useful!
-
-«–– [Ian](http://ianvonwalter.com)
